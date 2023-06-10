@@ -1,8 +1,16 @@
 ### Hi there 👋
 
 <!--
-**Shagdovala159/Shagdovala159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Shagdovala159/Shagdovala159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
+### :chart_with_upwards_trend: My Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shagdovala159&show_icons=true&theme=algolia)
+<br>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shagdovala159&theme=github-dark&hide_border=true)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shagdovala159&layout=compact&theme=algolia)](https://github.com/afdalabdallah/github-readme-stats)
+<br>
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
