@@ -3,13 +3,13 @@
 <!--
 **Shagdovala159/Shagdovala159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-### :chart_with_upwards_trend: My Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shagdovala159&show_icons=true&theme=algolia)
-<br>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shagdovala159&theme=github-dark&hide_border=true)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shagdovala159&layout=compact&theme=algolia)](https://github.com/afdalabdallah/github-readme-stats)
-<br>
+## 📈 Github Stats
+  
+| <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shagdovala159&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="Antonio's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shagdovala159&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="Antonio's Most Used Language">
+| ------------- | ------------- |  
+
+| <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shagdovala159&hide_border=true&theme=radical">
+| ------------- |
 <!--
 Here are some ideas to get you started:
 
