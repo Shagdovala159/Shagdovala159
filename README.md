@@ -6,7 +6,7 @@
 
 ## 📈 Github Stats
   
-| <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shagdovala159&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="Antonio's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shagdovala159&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="Antonio's Most Used Language">
+| <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shagdovala159&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="Antonio's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shagdovala159&langs_count=8&layout=compact&hide_border=true&theme=radical&hide=html" alt="Antonio's Most Used Language">
 | ------------- | ------------- |  
 
 | <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shagdovala159&hide_border=true&theme=radical">
